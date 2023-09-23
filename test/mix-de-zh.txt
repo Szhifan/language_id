@@ -1,0 +1,29 @@
+德语动词对名词的一般语序，不能轻易地归类为SVO或SOV等，在传统的形态学上，一般将德语分类为SVO语言，但根据生成语法分析，德语的语序当为SOV。一般而言，在主语只有一个动词的状况下，主语的动词会夹在两个句子成分（如名词与名词、副词与名词等，带有前置词的词与一般的名词等）之间，但主语的其他动词或从句中的其他动词，会全部跑到最尾端去，此种动词视情况有不同顺位的状况，请参见动词第二顺位。以下数句说明了德语的动词顺位：
+
+Ich sehe den Mann.
+Im Haus sehe ich den Mann.
+Gestern sah ich den Mann.(或"Ich sah gestern den Mann."亦可，两句仅词序不同，句意相同)
+Ich kann den Mann sehen.
+Ich sah einen Mann, der einen Apfel aß.
+在以上数句当中，第一句意即“我看见了那个男人”，第二句意即“在那栋房子里我看见了那个男人”，第三句意即“昨天我看见了那个男人”，第四句意即“我可以看见那个男人”，第五句意即“我看见了一个正在吃苹果的男人”。
+
+以上数句当中各个单词意思的说明如下：
+
+Ich/ich为“我”的主格形。
+sah为“看见”对第一人称单数和第三人称单数的过去式，原形为sehen。
+den为阳性与中性单数宾格名词的指示代词和关系代名词。
+der为阳性单数主格名词的指示代词和关系代名词。
+Mann为“男人”的单数形，阳性名词。
+In在后面的名词为与格时，意即“在‧‧‧里面”，后面的名词为宾格时，意即“到‧‧‧里面”。
+dem为阳性与中性单数与格名词的指示代词和关系代名词。(Im表In dem之意)
+Gestern意即“昨天、在昨天”。
+kann为“可以”对第一人称单数和第三人称单数的现在式。
+einen作用类似英语的不定冠词，用于阳性单数宾格名词。
+Apfel为“苹果”的单数形，阳性名词。
+aß为“吃”对第一人称单数和第三人称单数的过去式，原形为essen。
+在某些情况下，也可以将句子中的动词放在句首，表假设；在语义上相当于wenn条件句。例如：Ist die Ware im Geschäft eingetroffen, so fallen weitere Kosten an.（如果货物运抵至商店，便会产生附加成本）
+
+有助动词时，除了带有词形变化的动词外，其余的动词置于句尾：
+
+Die Leute haben die Leiche vom Liao-Kaiser in Salz eingelegt. - 人们以盐将辽国皇帝的遗体腌渍起来。
+Die Leiche vom Liao-Kaiser wurde von den Leuten in Salz eingelegt. - 辽国皇帝的遗体被人们以盐腌渍起来了。
